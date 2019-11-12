@@ -1,5 +1,5 @@
-<script src="{{ asset('js/app.js') }}"></script>
 <script src="{{ asset('js/jquery.min.js') }}"></script>
+<script src="{{ asset('js/app.js') }}"></script>
 <script src="{{ asset('js/jquery-ui.min.js') }}"></script>
 <script src="{{ asset('js/jquery.timepicker.min.js') }}"></script>
 <script src="{{ asset('js/jquery-migrate-3.0.1.min.js') }}"></script>

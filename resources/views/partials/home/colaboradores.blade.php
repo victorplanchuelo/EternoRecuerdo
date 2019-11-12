@@ -12,72 +12,88 @@
             <div class="col-md-7 wrap-about py-5 pr-md-4 ftco-animate">
                 <h2 class="mb-4">Empresas colaboradoras</h2>
                 <div class="row mt-5">
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
-                            <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-security"></span></div>
+                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                <img src="{{asset('storage/images/empresas/floristeria2.png')}}">
+                            </div>
                             <div class="text">
                                 <h3>Empresa 1</h3>
                                 <p>Texto 1</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
-                            <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-reading"></span></div>
+                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                <img src="{{asset('storage/images/empresas/funerarias.png')}}">
+                            </div>
                             <div class="text">
                                 <h3>Empresa 2</h3>
                                 <p>Texto 2</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
-                            <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-diploma"></span></div>
+                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                <img src="{{asset('storage/images/empresas/tanatorio.png')}}">
+                            </div>
                             <div class="text">
                                 <h3>Empresa 3</h3>
                                 <p>Texto 3</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
-                            <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-education"></span></div>
+                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                <img src="{{asset('storage/images/empresas/notarios.png')}}">
+                            </div>
                             <div class="text">
                                 <h3>Empresa 4</h3>
                                 <p>Texto 4</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
-                            <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-security"></span></div>
+                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                <img src="{{asset('storage/images/empresas/aseguradoras2.png')}}">
+                            </div>
                             <div class="text">
                                 <h3>Empresa 5</h3>
                                 <p>Texto 5</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
-                            <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-reading"></span></div>
+                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                <img src="{{asset('storage/images/empresas/cementerios.png')}}">
+                            </div>
                             <div class="text">
                                 <h3>Empresa 6</h3>
                                 <p>Texto 6</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
-                            <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-diploma"></span></div>
+                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                <img src="{{asset('storage/images/empresas/iglesia.png')}}">
+                            </div>
                             <div class="text">
                                 <h3>Empresa 7</h3>
                                 <p>Texto 7</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
-                            <div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-education"></span></div>
+                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                <img src="{{asset('storage/images/empresas/hospital.png')}}">
+                            </div>
                             <div class="text">
                                 <h3>Empresa 8</h3>
                                 <p>Texto 8</p>
