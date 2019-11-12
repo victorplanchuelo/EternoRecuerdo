@@ -6,13 +6,13 @@
         </button>
         <div class="collapse navbar-collapse" id="ftco-nav">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item" tag="li"><a href="#" class="nav-link pl-0">Home</a></li>
-                <li class="nav-item" tag="li"><a href="#" class="nav-link">About</a></li>
-                <li class="nav-item"><a href="teacher.html" class="nav-link">Teacher</a></li>
-                <li class="nav-item"><a href="courses.html" class="nav-link">Courses</a></li>
-                <li class="nav-item"><a href="pricing.html" class="nav-link">Pricing</a></li>
-                <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-                <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+                <li class="nav-item {{ (request()->is('/')) ? 'active' : '' }}" tag="li"><a href="#" class="nav-link pl-0">Home</a></li>
+                <li class="nav-item {{ (request()->is('/about*')) ? 'active' : '' }}" tag="li"><a href="#" class="nav-link">About</a></li>
+                <li class="nav-item {{ (request()->is('/teacher')) ? 'active' : '' }}"><a href="teacher.html" class="nav-link">Teacher</a></li>
+                <li class="nav-item {{ (request()->is('/courses')) ? 'active' : '' }}"><a href="courses.html" class="nav-link">Courses</a></li>
+                <li class="nav-item {{ (request()->is('/pricing')) ? 'active' : '' }}"><a href="pricing.html" class="nav-link">Pricing</a></li>
+                <li class="nav-item {{ (request()->is('/blog')) ? 'active' : '' }}"><a href="blog.html" class="nav-link">Blog</a></li>
+                <li class="nav-item {{ (request()->is('/contact*')) ? 'active' : '' }}"><a href="contact.html" class="nav-link">Contact</a></li>
             </ul>
         </div>
     </div>
