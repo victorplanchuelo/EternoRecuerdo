@@ -11,6 +11,7 @@
 |
 */
 
-Route::get('/', 'HomeController@home');
+Route::get('/', 'HomeController@home')->name('home');
+Route::get('/about', 'HomeController@about')->name('about');
 
 Auth::routes();
