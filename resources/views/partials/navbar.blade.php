@@ -8,11 +8,9 @@
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item {{ (request()->is('/')) ? 'active' : '' }}" tag="li"><a href="{{url('/')}}" class="nav-link pl-0">Home</a></li>
                 <li class="nav-item {{ (request()->is('about')) ? 'active' : '' }}" tag="li"><a href="{{url('about')}}" class="nav-link">Sobre nosotros</a></li>
-                <li class="nav-item {{ (request()->is('teacher')) ? 'active' : '' }}"><a href="teacher.html" class="nav-link">Teacher</a></li>
-                <li class="nav-item {{ (request()->is('courses')) ? 'active' : '' }}"><a href="courses.html" class="nav-link">Courses</a></li>
-                <li class="nav-item {{ (request()->is('pricing')) ? 'active' : '' }}"><a href="pricing.html" class="nav-link">Pricing</a></li>
-                <li class="nav-item {{ (request()->is('blog')) ? 'active' : '' }}"><a href="blog.html" class="nav-link">Blog</a></li>
-                <li class="nav-item {{ (request()->is('contact')) ? 'active' : '' }}"><a href="contact.html" class="nav-link">Contact</a></li>
+                <li class="nav-item {{ (request()->is('homenajes')) ? 'active' : '' }}"><a href="teacher.html" class="nav-link">Homenajes</a></li>
+                <li class="nav-item {{ (request()->is('colaboradores')) ? 'active' : '' }}"><a href="courses.html" class="nav-link">Colaboradores</a></li>
+                <li class="nav-item {{ (request()->is('contacto')) ? 'active' : '' }}"><a href="{{url('contacto')}}" class="nav-link">Contacto</a></li>
             </ul>
         </div>
     </div>
