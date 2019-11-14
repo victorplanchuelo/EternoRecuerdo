@@ -15,7 +15,7 @@
                     <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
                             <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('storage/images/empresas/floristeria2.png')}}">
+                                <img src="{{asset('images/empresas/floristeria2.png')}}">
                             </div>
                             <div class="text">
                                 <h3>Empresa 1</h3>
@@ -26,7 +26,7 @@
                     <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
                             <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('storage/images/empresas/funerarias.png')}}">
+                                <img src="{{asset('images/empresas/funerarias.png')}}">
                             </div>
                             <div class="text">
                                 <h3>Empresa 2</h3>
@@ -37,7 +37,7 @@
                     <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
                             <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('storage/images/empresas/tanatorio.png')}}">
+                                <img src="{{asset('images/empresas/tanatorio.png')}}">
                             </div>
                             <div class="text">
                                 <h3>Empresa 3</h3>
@@ -48,7 +48,7 @@
                     <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
                             <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('storage/images/empresas/notarios.png')}}">
+                                <img src="{{asset('images/empresas/notarios.png')}}">
                             </div>
                             <div class="text">
                                 <h3>Empresa 4</h3>
@@ -59,7 +59,7 @@
                     <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
                             <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('storage/images/empresas/aseguradoras2.png')}}">
+                                <img src="{{asset('images/empresas/aseguradoras2.png')}}">
                             </div>
                             <div class="text">
                                 <h3>Empresa 5</h3>
@@ -70,7 +70,7 @@
                     <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
                             <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('storage/images/empresas/cementerios.png')}}">
+                                <img src="{{asset('images/empresas/cementerios.png')}}">
                             </div>
                             <div class="text">
                                 <h3>Empresa 6</h3>
@@ -81,7 +81,7 @@
                     <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
                             <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('storage/images/empresas/iglesia.png')}}">
+                                <img src="{{asset('images/empresas/iglesia.png')}}">
                             </div>
                             <div class="text">
                                 <h3>Empresa 7</h3>
@@ -92,7 +92,7 @@
                     <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
                             <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('storage/images/empresas/hospital.png')}}">
+                                <img src="{{asset('images/empresas/hospital.png')}}">
                             </div>
                             <div class="text">
                                 <h3>Empresa 8</h3>

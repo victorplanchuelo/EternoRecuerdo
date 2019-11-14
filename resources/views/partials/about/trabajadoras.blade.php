@@ -10,7 +10,7 @@
             <div class="col-md-6 col-lg-3 ftco-animate">
                 <div class="staff">
                     <div class="img-wrap d-flex align-items-stretch">
-                        <div class="img align-self-stretch" style="background-image: url('storage/images/teacher-1.jpg');"></div>
+                        <div class="img align-self-stretch" style="background-image: url('images/teacher-1.jpg');"></div>
                     </div>
                     <div class="text pt-3 text-center">
                         <h3>Silvia Ruiz</h3>
@@ -30,7 +30,7 @@
             <div class="col-md-6 col-lg-3 ftco-animate">
                 <div class="staff">
                     <div class="img-wrap d-flex align-items-stretch">
-                        <div class="img align-self-stretch" style="background-image: url('storage/images/teacher-2.jpg');"></div>
+                        <div class="img align-self-stretch" style="background-image: url('images/teacher-2.jpg');"></div>
                     </div>
                     <div class="text pt-3 text-center">
                         <h3>Verónica</h3>
@@ -50,7 +50,7 @@
             <div class="col-md-6 col-lg-3 ftco-animate">
                 <div class="staff">
                     <div class="img-wrap d-flex align-items-stretch">
-                        <div class="img align-self-stretch" style="background-image: url('storage/images/teacher-3.jpg');"></div>
+                        <div class="img align-self-stretch" style="background-image: url('images/teacher-3.jpg');"></div>
                     </div>
                     <div class="text pt-3 text-center">
                         <h3>Loreto</h3>
@@ -70,7 +70,7 @@
             <div class="col-md-6 col-lg-3 ftco-animate">
                 <div class="staff">
                     <div class="img-wrap d-flex align-items-stretch">
-                        <div class="img align-self-stretch" style="background-image: url('storage/images/teacher-4.jpg');"></div>
+                        <div class="img align-self-stretch" style="background-image: url('images/teacher-4.jpg');"></div>
                     </div>
                     <div class="text pt-3 text-center">
                         <h3>Mª del Pilar</h3>

@@ -11,7 +11,7 @@
                 <div class="carousel-testimony owl-carousel">
                     <div class="item">
                         <div class="testimony-wrap d-flex">
-                            <div class="user-img mr-4" style="background-image: url('storage/images/teacher-1.jpg')">
+                            <div class="user-img mr-4" style="background-image: url('images/teacher-1.jpg')">
                             </div>
                             <div class="text ml-2 bg-light">
                                 <span class="quote d-flex align-items-center justify-content-center">
@@ -25,7 +25,7 @@
                     </div>
                     <div class="item">
                         <div class="testimony-wrap d-flex">
-                            <div class="user-img mr-4" style="background-image: url('storage/images/teacher-2.jpg')">
+                            <div class="user-img mr-4" style="background-image: url('images/teacher-2.jpg')">
                             </div>
                             <div class="text ml-2 bg-light">
                                 <span class="quote d-flex align-items-center justify-content-center">
@@ -39,7 +39,7 @@
                     </div>
                     <div class="item">
                         <div class="testimony-wrap d-flex">
-                            <div class="user-img mr-4" style="background-image: url('storage/images/teacher-3.jpg')">
+                            <div class="user-img mr-4" style="background-image: url('images/teacher-3.jpg')">
                             </div>
                             <div class="text ml-2 bg-light">
                                 <span class="quote d-flex align-items-center justify-content-center">
@@ -53,7 +53,7 @@
                     </div>
                     <div class="item">
                         <div class="testimony-wrap d-flex">
-                            <div class="user-img mr-4" style="background-image: url('storage/images/teacher-4.jpg')">
+                            <div class="user-img mr-4" style="background-image: url('images/teacher-4.jpg')">
                             </div>
                             <div class="text ml-2 bg-light">
                                 <span class="quote d-flex align-items-center justify-content-center">
@@ -67,7 +67,7 @@
                     </div>
                     <div class="item">
                         <div class="testimony-wrap d-flex">
-                            <div class="user-img mr-4" style="background-image: url('storage/images/teacher-1.jpg')">
+                            <div class="user-img mr-4" style="background-image: url('images/teacher-1.jpg')">
                             </div>
                             <div class="text ml-2 bg-light">
                                 <span class="quote d-flex align-items-center justify-content-center">

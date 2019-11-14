@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-6 col-lg-4 ftco-animate">
                 <div class="blog-entry">
-                    <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('storage/images/image_1.jpg');">
+                    <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/image_1.jpg');">
                         <div class="meta-date text-center p-2">
                             <span class="day">13</span>
                             <span class="mos">Enero</span>
@@ -30,7 +30,7 @@
             </div>
             <div class="col-md-6 col-lg-4 ftco-animate">
                 <div class="blog-entry">
-                    <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('storage/images/image_2.jpg');">
+                    <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/image_2.jpg');">
                         <div class="meta-date text-center p-2">
                             <span class="day">13</span>
                             <span class="mos">Enero</span>
@@ -57,7 +57,7 @@
             </div>
             <div class="col-md-6 col-lg-4 ftco-animate">
                 <div class="blog-entry">
-                    <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('storage/images/image_3.jpg');">
+                    <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/image_3.jpg');">
                         <div class="meta-date text-center p-2">
                             <span class="day">13</span>
                             <span class="mos">Enero</span>
@@ -84,7 +84,7 @@
             </div>
             <div class="col-md-6 col-lg-4 ftco-animate">
                 <div class="blog-entry">
-                    <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('storage/images/image_4.jpg');">
+                    <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/image_4.jpg');">
                         <div class="meta-date text-center p-2">
                             <span class="day">13</span>
                             <span class="mos">Enero</span>
@@ -111,7 +111,7 @@
             </div>
             <div class="col-md-6 col-lg-4 ftco-animate">
                 <div class="blog-entry">
-                    <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('storage/images/image_5.jpg');">
+                    <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/image_5.jpg');">
                         <div class="meta-date text-center p-2">
                             <span class="day">13</span>
                             <span class="mos">Enero</span>
@@ -138,7 +138,7 @@
             </div>
             <div class="col-md-6 col-lg-4 ftco-animate">
                 <div class="blog-entry">
-                    <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('storage/images/image_6.jpg');">
+                    <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/image_6.jpg');">
                         <div class="meta-date text-center p-2">
                             <span class="day">13</span>
                             <span class="mos">Enero</span>
