@@ -13,7 +13,7 @@
                         <div class="img align-self-stretch" style="background-image: url('storage/images/teacher-1.jpg');"></div>
                     </div>
                     <div class="text pt-3 text-center">
-                        <h3>Bianca Wilson</h3>
+                        <h3>Silvia Ruiz</h3>
                         <span class="position mb-2">Teacher</span>
                         <div class="faded">
                             <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
@@ -33,7 +33,7 @@
                         <div class="img align-self-stretch" style="background-image: url('storage/images/teacher-2.jpg');"></div>
                     </div>
                     <div class="text pt-3 text-center">
-                        <h3>Mitch Parker</h3>
+                        <h3>Verónica</h3>
                         <span class="position mb-2">English Teacher</span>
                         <div class="faded">
                             <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
@@ -53,7 +53,7 @@
                         <div class="img align-self-stretch" style="background-image: url('storage/images/teacher-3.jpg');"></div>
                     </div>
                     <div class="text pt-3 text-center">
-                        <h3>Stella Smith</h3>
+                        <h3>Loreto</h3>
                         <span class="position mb-2">Art Teacher</span>
                         <div class="faded">
                             <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
@@ -73,7 +73,7 @@
                         <div class="img align-self-stretch" style="background-image: url('storage/images/teacher-4.jpg');"></div>
                     </div>
                     <div class="text pt-3 text-center">
-                        <h3>Monshe Henderson</h3>
+                        <h3>Mª del Pilar</h3>
                         <span class="position mb-2">Science Teacher</span>
                         <div class="faded">
                             <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
