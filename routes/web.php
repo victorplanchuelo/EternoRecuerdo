@@ -15,4 +15,6 @@ Route::get('/', 'HomeController@home')->name('home');
 Route::get('/about', 'HomeController@about')->name('about');
 Route::get('/contacto', 'HomeController@contact')->name('contacto');
 
+Route::get('/homenajes', 'HomenajesController@index')->name('homenajes');
+
 Auth::routes();
