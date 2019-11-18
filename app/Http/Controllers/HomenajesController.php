@@ -10,4 +10,9 @@ class HomenajesController extends Controller
     {
         return view('obituaries');
     }
+
+    public function show($id)
+    {
+        return view('single-obituary');
+    }
 }
