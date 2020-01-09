@@ -11100,3 +11100,7 @@ a.text-dark:focus {
   }
 }
 
+.img-servicios-home {
+  width: 50%;
+  filter: invert(57%) sepia(17%) saturate(5659%) hue-rotate(169deg) brightness(100%) contrast(90%);
+}
