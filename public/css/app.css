@@ -11104,3 +11104,19 @@ a.text-dark:focus {
   width: 50%;
   filter: invert(57%) sepia(17%) saturate(5659%) hue-rotate(169deg) brightness(100%) contrast(90%);
 }
+
+.bg-azul-pastel {
+  background-color: #60c9ff;
+}
+
+.bg-verde-pastel {
+  background-color: #a3d46c;
+}
+
+.bg-morado-pastel {
+  background-color: #776ec5;
+}
+
+.bg-rojo-pastel {
+  background-color: #ff6962;
+}
