@@ -36,9 +36,7 @@
             <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
                 <div class="col-md-8 text-center ftco-animate">
                     <h1 class="mb-4">
-                        <span class="texto-carrusel" style="font-size: 60px">ETERNO RECUERDO </span>
-                        <span class="texto-carrusel" style="font-size: 45px;"> Donde los recuerdos </span>
-                        <span class="texto-carrusel" style="font-size: 45px;"> nunca desaparecen </span>
+                        <span class="texto-carrusel">Eres uno más en la familia </span>
                     </h1>
                 </div>
             </div>
