@@ -10,7 +10,7 @@
                     </div>
                     <div class="media-body p-2 mt-3">
                         <h3 class="heading">Ser querido</h3>
-                        <p>Cree desde aquí el perfil de su ser querido</p>
+                        <p>Crea desde aquí el perfil de tu ser querido</p>
                     </div>
                 </div>
             </div>
@@ -23,7 +23,7 @@
                     </div>
                     <div class="media-body p-2 mt-3">
                         <h3 class="heading">Mascota</h3>
-                        <p>Desde aquí podrá crear el perfil de su mascota</p>
+                        <p>Desde aquí podrás crear el perfil de tu mascota</p>
                     </div>
                 </div>
             </div>
@@ -49,7 +49,7 @@
                     </div>
                     <div class="media-body p-2 mt-3">
                         <h3 class="heading">Tutoriales y ayuda</h3>
-                        <p>Te ayudamos a elaborar el perfil que desee</p>
+                        <p>Te ayudamos a elaborar el perfil que desees</p>
                     </div>
                 </div>
             </div>
