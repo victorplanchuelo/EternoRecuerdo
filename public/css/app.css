@@ -11120,3 +11120,7 @@ a.text-dark:focus {
 .bg-rojo-pastel {
   background-color: #ff6962;
 }
+
+.texto-carrusel {
+  font-family: 'Handlee', cursive;
+}
