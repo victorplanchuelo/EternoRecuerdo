@@ -18,8 +18,7 @@
                                 <img src="{{asset('images/empresas/floristeria2.png')}}">
                             </div>
                             <div class="text">
-                                <h3>Empresa 1</h3>
-                                <p>Texto 1</p>
+                                <h3>Floristerías</h3>
                             </div>
                         </div>
                     </div>
@@ -29,8 +28,7 @@
                                 <img src="{{asset('images/empresas/funerarias.png')}}">
                             </div>
                             <div class="text">
-                                <h3>Empresa 2</h3>
-                                <p>Texto 2</p>
+                                <h3>Seguros</h3>
                             </div>
                         </div>
                     </div>
@@ -40,8 +38,7 @@
                                 <img src="{{asset('images/empresas/tanatorio.png')}}">
                             </div>
                             <div class="text">
-                                <h3>Empresa 3</h3>
-                                <p>Texto 3</p>
+                                <h3>Tanatorios</h3>
                             </div>
                         </div>
                     </div>
@@ -51,8 +48,7 @@
                                 <img src="{{asset('images/empresas/notarios.png')}}">
                             </div>
                             <div class="text">
-                                <h3>Empresa 4</h3>
-                                <p>Texto 4</p>
+                                <h3>Notarios</h3>
                             </div>
                         </div>
                     </div>
@@ -62,8 +58,7 @@
                                 <img src="{{asset('images/empresas/aseguradoras2.png')}}">
                             </div>
                             <div class="text">
-                                <h3>Empresa 5</h3>
-                                <p>Texto 5</p>
+                                <h3>Asesorías</h3>
                             </div>
                         </div>
                     </div>
@@ -73,8 +68,7 @@
                                 <img src="{{asset('images/empresas/cementerios.png')}}">
                             </div>
                             <div class="text">
-                                <h3>Empresa 6</h3>
-                                <p>Texto 6</p>
+                                <h3>Cementerios</h3>
                             </div>
                         </div>
                     </div>
@@ -84,8 +78,7 @@
                                 <img src="{{asset('images/empresas/iglesia.png')}}">
                             </div>
                             <div class="text">
-                                <h3>Empresa 7</h3>
-                                <p>Texto 7</p>
+                                <h3>Iglesias</h3>
                             </div>
                         </div>
                     </div>
@@ -95,8 +88,7 @@
                                 <img src="{{asset('images/empresas/hospital.png')}}">
                             </div>
                             <div class="text">
-                                <h3>Empresa 8</h3>
-                                <p>Texto 8</p>
+                                <h3>Hospitales</h3>
                             </div>
                         </div>
                     </div>

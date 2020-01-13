@@ -12398,6 +12398,7 @@ h5,
 .services-2 .text h3 {
     font-size: 20px;
     font-weight: 500;
+    margin-top:15px;
 }
 
 .ftco-intro {
@@ -13718,7 +13719,7 @@ textarea.form-control {
 }
 
 .search-form {
-    background: #fafafa;
+    /*background: #fafafa;*/
     padding: 10px;
 }
 

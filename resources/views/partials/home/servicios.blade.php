@@ -23,7 +23,7 @@
                     </div>
                     <div class="media-body p-2 mt-3">
                         <h3 class="heading">Mascota</h3>
-                        <p>Desde aquí podrás crear el perfil de tu mascota</p>
+                        <p>Crea desde aquí el perfil de tu mascota</p>
                     </div>
                 </div>
             </div>

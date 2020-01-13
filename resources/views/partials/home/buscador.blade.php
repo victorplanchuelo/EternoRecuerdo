@@ -1,13 +1,18 @@
-<section class="ftco-intro" data-stellar-background-ratio="0.5">
+<section class="ftco-intro" data-stellar-background-ratio="0.5" style="background-image: url('images/clouds.jpg')">
     <div class="overlay"></div>
     <div class="container">
         <div class="row">
-            <div class="col-md-9">
-                <h2>Busca a tu ser o mascota querida</h2>
-                <p class="mb-0">Buscador</p>
-            </div>
-            <div class="col-md-3 d-flex align-items-center">
-                <p class="mb-0"><a href="#" class="btn btn-secondary px-4 py-3">Take a Course</a></p>
+            <div class="col-md-12">
+                <h2 class="text-center">Busca a tu ser querido o mascota</h2>
+
+                <form action="#" class="search-form form-inline">
+                    <div class="form-group col-md-12">
+                    
+                        <input type="text" class="form-control col-md-8 ml-5" placeholder="Nombre a buscar">
+                        <button class="btn btn-primary ml-5 col-md-2">Buscar</button>
+                    </div>
+                </form>
+                
             </div>
         </div>
     </div>
