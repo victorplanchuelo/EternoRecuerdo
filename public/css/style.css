@@ -12834,7 +12834,7 @@ h5,
 
 .form-control:focus,
 .form-control:active {
-    border-color: #000000;
+    border-color: #1eaaf1;
 }
 
 textarea.form-control {

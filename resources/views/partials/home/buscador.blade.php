@@ -8,8 +8,8 @@
                 <form action="#" class="search-form form-inline">
                     <div class="form-group col-md-12">
                     
-                        <input type="text" class="form-control col-md-8 ml-5" placeholder="Nombre a buscar">
-                        <button class="btn btn-primary ml-5 col-md-2">Buscar</button>
+                        <input type="text" style="border-radius: 25px;" class="form-control col-md-8 ml-5" placeholder="Nombre a buscar">
+                        <button class="btn btn-tertiary ml-3 col-md-2">Buscar</button>
                     </div>
                 </form>
                 
