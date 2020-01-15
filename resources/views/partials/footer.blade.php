@@ -1,7 +1,7 @@
 <footer class="ftco-footer ftco-bg-dark ftco-section">
     <div class="container">
         <div class="row mb-5">
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-8 col-lg-4">
                 <div class="ftco-footer-widget mb-5">
                     <h2 class="ftco-heading-2">Contacto</h2>
                     <div class="block-23 mb-3">
@@ -13,32 +13,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-3">
-                <div class="ftco-footer-widget mb-5">
-                    <h2 class="ftco-heading-2">Últimos homenajes</h2>
-                    <div class="block-21 mb-4 d-flex">
-                        <a class="blog-img mr-4" style="background-image: url('/images/image_1.jpg');"></a>
-                        <div class="text">
-                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>
-                            <div class="meta">
-                                <div><a href="#"><span class="icon-calendar"></span> Dec 25, 2018</a></div>
-                                <div><a href="#"><span class="icon-calendar"></span> Dec 25, 2018</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="block-21 mb-5 d-flex">
-                        <a class="blog-img mr-4" style="background-image: url('/images/image_2.jpg');"></a>
-                        <div class="text">
-                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>
-                            <div class="meta">
-                                <div><a href="#"><span class="icon-calendar"></span> Dec 25, 2018</a></div>
-                                <div><a href="#"><span class="icon-calendar"></span> Dec 25, 2018</a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-8 col-lg-4">
                 <div class="ftco-footer-widget mb-5 ml-md-4">
                     <h2 class="ftco-heading-2">Enlaces</h2>
                     <ul class="list-unstyled">
@@ -50,7 +25,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-3">
+            <div class="col-md-8 col-lg-4">
                 <div class="ftco-footer-widget mb-5">
                     <h2 class="ftco-heading-2 mb-0">Connect With Us</h2>
                     <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
@@ -65,7 +40,7 @@
             <div class="col-md-12 text-center">
                 <p>
                     Copyright &copy; {{ now()->year }}
-                    Eterno Recuerdo | All rights reserved
+                    Eterno Recuerdo | Todos los derechos reservados
                 </p>
             </div>
         </div>
