@@ -12733,7 +12733,7 @@ h5,
 
 .blog-entry .meta-date {
     display: inline-block;
-    background: #5d50c6;
+    background: #A18594;
 }
 
 .blog-entry .meta-date span {
@@ -12743,12 +12743,12 @@ h5,
 
 .blog-entry .meta-date .day {
     font-weight: 700;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .blog-entry .meta-date .mos,
 .blog-entry .meta-date .yr {
-    font-size: 13px;
+    font-size: 12px;
 }
 
 .blog-entry .meta>div {
