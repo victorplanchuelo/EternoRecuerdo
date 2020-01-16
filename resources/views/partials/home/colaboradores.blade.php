@@ -92,6 +92,16 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-12 col-sm-12">
+                        <div class="services-2 d-flex mx-auto">
+                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                <img src="{{asset('images/empresas/divan.png')}}">
+                            </div>
+                            <div class="text">
+                                <h3>Gabinete psicológico</h3>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
