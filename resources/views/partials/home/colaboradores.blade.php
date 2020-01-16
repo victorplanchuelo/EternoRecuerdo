@@ -10,7 +10,7 @@
                 </div>
             </div>
             <div class="col-md-7 wrap-about py-5 pr-md-4 ftco-animate">
-                <h2 class="mb-4">Empresas colaboradoras</h2>
+                <h2 class="mb-4 ml-5">Empresas colaboradoras</h2>
                 <div class="row mt-5">
                     <div class="col-lg-6 col-sm-6">
                         <div class="services-2 d-flex">
