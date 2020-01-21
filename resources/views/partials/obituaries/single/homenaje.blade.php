@@ -4,9 +4,30 @@
             <div class="col-lg-8 ftco-animate">
                 <h2 class="mb-3">#2. Creative WordPress Themes</h2>
                 <p>Temporibus ad error suscipit exercitationem hic molestiae totam obcaecati rerum, eius aut, in. Exercitationem atque quidem tempora maiores ex architecto voluptatum aut officia doloremque. Error dolore voluptas, omnis molestias odio dignissimos culpa ex earum nisi consequatur quos odit quasi repellat qui officiis reiciendis incidunt hic non? Debitis commodi aut, adipisci.</p>
-                <p>
-                    <img src="/images/image_2.jpg" alt="" class="img-fluid">
-                </p>
+                
+                <div id="carouselHomenaje" class="carousel slide" data-ride="carousel" style="width:790px; height: 660px; background-color:grey">
+                    <ol class="carousel-indicators">
+                        <li data-target="#carouselHomenaje" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselHomenaje" data-slide-to="1"></li>
+                    </ol>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                        <img class="d-block w-100 img-responsive" src="/images/homenajes/camilo-sesto-1.jpg" alt="First slide">
+                        </div>
+                        <div class="carousel-item">
+                        <img class="d-block w-100 img-responsive" src="/images/homenajes/camilo-sesto-2.jpg" alt="Second slide">
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselHomenaje" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselHomenaje" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+                
                 <p>Quisquam esse aliquam fuga distinctio, quidem delectus veritatis reiciendis. Nihil explicabo quod, est eos ipsum. Unde aut non tenetur tempore, nisi culpa voluptate maiores officiis quis vel ab consectetur suscipit veritatis nulla quos quia aspernatur perferendis, libero sint. Error, velit, porro. Deserunt minus, quibusdam iste enim veniam, modi rem maiores.</p>
                 <p>Odit voluptatibus, eveniet vel nihil cum ullam dolores laborum, quo velit commodi rerum eum quidem pariatur! Quia fuga iste tenetur, ipsa vel nisi in dolorum consequatur, veritatis porro explicabo soluta commodi libero voluptatem similique id quidem? Blanditiis voluptates aperiam non magni. Reprehenderit nobis odit inventore, quia laboriosam harum excepturi ea.</p>
                 <p>Adipisci vero culpa, eius nobis soluta. Dolore, maxime ullam ipsam quidem, dolor distinctio similique asperiores voluptas enim, exercitationem ratione aut adipisci modi quod quibusdam iusto, voluptates beatae iure nemo itaque laborum. Consequuntur et pariatur totam fuga eligendi vero dolorum provident. Voluptatibus, veritatis. Beatae numquam nam ab voluptatibus culpa, tenetur recusandae!</p>
