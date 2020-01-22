@@ -11,7 +11,6 @@
 <link href="https://fonts.googleapis.com/css?family=Handlee&display=swap" rel="stylesheet">
 
 <link href=" {{ asset('css/app.css') }}" rel="stylesheet">
-
 <link rel="stylesheet" href="{{ asset('css/jquery-ui.min.css') }}">
 <link rel="stylesheet" href="{{ asset('css/jquery.timepicker.min.css') }}">
 

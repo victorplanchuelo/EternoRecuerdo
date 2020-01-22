@@ -258,6 +258,27 @@
 	$('.appointment_time').timepicker();
 
 
+	$('#velas').owlCarousel({
+		loop: true,
+		center: true,
+		items: 3,
+		margin: 0,
+		autoplay: true,
+		dots:false,
+		autoplayTimeout: 4500,
+		smartSpeed: 450,
+		responsive: {
+		  0: {
+			items: 1
+		  },
+		  768: {
+			items: 2
+		  },
+		  1170: {
+			items: 3
+		  }
+		}
+	});
 
 
 })(jQuery);
