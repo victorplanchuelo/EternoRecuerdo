@@ -26,11 +26,9 @@
 </div>-->
 
 <style>
-  #myCarousel .carousel-inner > .item > img,
-  #myCarousel .carousel-inner > .item > a > img {
-    width: 70%;
-    margin: auto;
-  }
+  #myCarousel .carousel-control-prev, .carousel-control-next {
+    background-color: #edeff0;
+}
 
   #myCarousel .carousel-control-prev-icon, .carousel-control-next-icon {
     height: 40px;
@@ -41,24 +39,34 @@
     border-radius: 50%;
     border: 1px solid black;
 }
+
+.img-homenaje {
+  margin-left:176px;
+  width: 800px;
+  max-width: 800px;
+  height: 650px;
+  max-height: 650px;
+  padding-top: 20px;
+}
+
 </style>
 <div class="container">
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
-    <div class="carousel-item active">
-      <img src="/images/homenajes/esquela-camilo-sesto.png" alt="Chania" class="mx-auto d-block">
+    <div class="carousel-item active img-homenaje">
+      <img src="/images/homenajes/esquela-camilo-sesto.png" alt="Chania" class=" img-fluid mx-auto d-block">
     </div>
 
-    <div class="carousel-item">
-      <img src="/images/homenajes/camilo-sesto-1.jpg" alt="Chania" class="mx-auto d-block">
+    <div class="carousel-item img-homenaje">
+      <img src="/images/homenajes/camilo-sesto-1.jpg" alt="Chania" class="img-fluid mx-auto d-block">
     </div>
 
-    <div class="carousel-item">
-      <img src="/images/homenajes/camilo-sesto-2.jpg" alt="Flower" class="mx-auto d-block">
+    <div class="carousel-item img-homenaje">
+      <img src="/images/homenajes/camilo-sesto-2.jpg" alt="Flower" class="img-fluid mx-auto d-block">
     </div>
 
-    <div class="carousel-item">
+    <div class="carousel-item img-homenaje">
     <video class="d-block mx-auto video-fluid w-100" autoplay loop muted>
         <source src="https://mdbootstrap.com/img/video/forest.mp4" type="video/mp4" />
     </video>
