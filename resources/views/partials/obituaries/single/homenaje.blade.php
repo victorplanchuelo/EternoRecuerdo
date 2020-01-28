@@ -2,89 +2,40 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 ftco-animate">
-                <h2 class="mb-3">#2. Creative WordPress Themes</h2>
-                <p>Temporibus ad error suscipit exercitationem hic molestiae totam obcaecati rerum, eius aut, in. Exercitationem atque quidem tempora maiores ex architecto voluptatum aut officia doloremque. Error dolore voluptas, omnis molestias odio dignissimos culpa ex earum nisi consequatur quos odit quasi repellat qui officiis reiciendis incidunt hic non? Debitis commodi aut, adipisci.</p>
+                <h2 class="mb-3">Camilo Blanes Cortés (Camilo Sesto)</h2>
+                <p>Alcoy, 16/09/1946 - Madrid 08/09/2019</p>
               
                 @include('partials/obituaries/single/carousel')
 
                 @include('partials/obituaries/single/velas-ramos')
                 
-                <p>Quisquam esse aliquam fuga distinctio, quidem delectus veritatis reiciendis. Nihil explicabo quod, est eos ipsum. Unde aut non tenetur tempore, nisi culpa voluptate maiores officiis quis vel ab consectetur suscipit veritatis nulla quos quia aspernatur perferendis, libero sint. Error, velit, porro. Deserunt minus, quibusdam iste enim veniam, modi rem maiores.</p>
-                <p>Odit voluptatibus, eveniet vel nihil cum ullam dolores laborum, quo velit commodi rerum eum quidem pariatur! Quia fuga iste tenetur, ipsa vel nisi in dolorum consequatur, veritatis porro explicabo soluta commodi libero voluptatem similique id quidem? Blanditiis voluptates aperiam non magni. Reprehenderit nobis odit inventore, quia laboriosam harum excepturi ea.</p>
-                <p>Adipisci vero culpa, eius nobis soluta. Dolore, maxime ullam ipsam quidem, dolor distinctio similique asperiores voluptas enim, exercitationem ratione aut adipisci modi quod quibusdam iusto, voluptates beatae iure nemo itaque laborum. Consequuntur et pariatur totam fuga eligendi vero dolorum provident. Voluptatibus, veritatis. Beatae numquam nam ab voluptatibus culpa, tenetur recusandae!</p>
-                <p>Voluptas dolores dignissimos dolorum temporibus, autem aliquam ducimus at officia adipisci quasi nemo a perspiciatis provident magni laboriosam repudiandae iure iusto commodi debitis est blanditiis alias laborum sint dolore. Dolores, iure, reprehenderit. Error provident, pariatur cupiditate soluta doloremque aut ratione. Harum voluptates mollitia illo minus praesentium, rerum ipsa debitis, inventore?</p>
+                <p>Camilo Blanes Cortés, más conocido como Camilo Sesto nos dejo la madrugada del domingo 8 de septiembre a los 72 años.</p>
+                <p>Nació en Alcoy, se convirtió en una de las voces más importantes del panorama musical español.</p>
+                <p>Lo conocemos gracias a sus temas más sonoros como “ Vivir así es morir de amor”, “Perdóname” o “ Algo de mi”, “¿Quieres ser mi amante” o “El amor de mi vida”, que le hicieron vender más de 100 millones de discos..</p>
 
                 <div class="pt-5 mt-5">
-                    <h3 class="mb-5 h4 font-weight-bold">6 Comments</h3>
+                    <h3 class="mb-5 h4 font-weight-bold">2 condolencias</h3>
                     <ul class="comment-list">
                         <li class="comment">
                             <div class="vcard bio">
-                                <img src="/images/teacher-1.jpg" alt="Image placeholder">
+                                <img src="{{asset('images/logo.png')}}" alt="Eterno Recuerdo">
                             </div>
                             <div class="comment-body">
-                                <h3>John Doe</h3>
-                                <div class="meta mb-2">January 03, 2019 at 2:21pm</div>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                                <p><a href="#" class="reply">Reply</a></p>
+                                <h3>Eterno Recuerdo</h3>
+                                <div class="meta mb-2">08 de Septiembre de 2019</div>
+                                <p>El equipo de Eterno Recuerdo le acompaña en el sentimiento y quiere hacer llegar a su familia y allegados los servicios que ofrece nuestra web para recordar y homenajear a sus seres queridos.</p>
                             </div>
                         </li>
 
                         <li class="comment">
                             <div class="vcard bio">
-                                <img src="/images/teacher-1.jpg" alt="Image placeholder">
+                                <img src="/images/teacher-1.jpg" alt="Iván Bonmatí">
                             </div>
                             <div class="comment-body">
-                                <h3>John Doe</h3>
-                                <div class="meta mb-2">January 03, 2019 at 2:21pm</div>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                                <p><a href="#" class="reply">Reply</a></p>
-                            </div>
-                        </li>
-                        <li class="comment">
-                            <div class="vcard bio">
-                                <img src="/images/teacher-1.jpg" alt="Image placeholder">
-                            </div>
-                            <div class="comment-body">
-                                <h3>John Doe</h3>
-                                <div class="meta mb-2">January 03, 2019 at 2:21pm</div>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                                <p><a href="#" class="reply">Reply</a></p>
-                            </div>
-                        </li>
-
-
-                        <li class="comment">
-                            <div class="vcard bio">
-                                <img src="/images/teacher-1.jpg" alt="Image placeholder">
-                            </div>
-                            <div class="comment-body">
-                                <h3>John Doe</h3>
-                                <div class="meta mb-2">January 03, 2019 at 2:21pm</div>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                                <p><a href="#" class="reply">Reply</a></p>
-                            </div>
-                        </li>
-                        <li class="comment">
-                            <div class="vcard bio">
-                                <img src="/images/teacher-1.jpg" alt="Image placeholder">
-                            </div>
-                            <div class="comment-body">
-                                <h3>John Doe</h3>
-                                <div class="meta mb-2">January 03, 2019 at 2:21pm</div>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                                <p><a href="#" class="reply">Reply</a></p>
-                            </div>
-                        </li>
-
-                        <li class="comment">
-                            <div class="vcard bio">
-                                <img src="/images/teacher-1.jpg" alt="Image placeholder">
-                            </div>
-                            <div class="comment-body">
-                                <h3>John Doe</h3>
-                                <div class="meta mb-2">January 03, 2019 at 2:21pm</div>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem laborum necessitatibus, ipsam impedit vitae autem, eum officia, fugiat saepe enim sapiente iste iure! Quam voluptas earum impedit necessitatibus, nihil?</p>
-                                <p><a href="#" class="reply">Reply</a></p>
+                                <h3>Iván Bonmatí</h3>
+                                <div class="meta mb-2">21 de Noviembre de 2019</div>
+                                <p>Camilo siempre te he escuchado, has sido una inspiración para mi. En todos los momentos de mi vida me has acompañado.</p>
+                                <p> Es una pena que nos abandones pero nunca te olvidaremos ya que nos has dejado tu música.</p>
                             </div>
                         </li>
                     </ul>
