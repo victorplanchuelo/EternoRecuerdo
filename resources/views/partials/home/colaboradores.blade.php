@@ -3,10 +3,10 @@
         <div class="row">
             <div class="col-md-5 order-md-last wrap-about py-5 wrap-about bg-light">
                 <div class="text px-4 ftco-animate">
-                    <h2 class="mb-4">Consulte todos nuestros colaboradores</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus neque sem, elementum vel egestas quis, bibendum sit amet ligula. Suspendisse elementum varius est. Suspendisse lorem sem, ornare vitae ipsum ut, malesuada tempus enim. Praesent id neque eget urna consequat aliquam. Suspendisse aliquet ante at nibh cursus, sed tristique purus ullamcorper. Fusce volutpat quis lacus at ultrices. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat volutpat. Ut mattis leo sem, at placerat enim tincidunt et. Nam malesuada, massa id cursus tristique, massa odio auctor sapien, a feugiat est sapien et turpis. Ut eget condimentum arcu. Pellentesque congue lectus laoreet, vulputate odio at, finibus eros. Vestibulum rutrum viverra justo, a posuere tellus gravida ac.</p>
-                    <p>Phasellus non tortor a magna gravida tristique id quis risus. Nunc nisi ex, fringilla et turpis eget, porttitor dignissim quam. Nunc nulla metus, elementum consequat rutrum nec, commodo sed leo. Aliquam condimentum dolor odio, at vestibulum nulla porta et. Ut auctor vulputate faucibus. Suspendisse at massa eu quam blandit vulputate. Vestibulum ut elit laoreet, pharetra nibh a, posuere orci. Etiam nec quam et ipsum porta vulputate. Cras mauris neque, fringilla sit amet suscipit quis, rhoncus ut tellus.</p>
-                    <p><a href="#" class="btn btn-secondary px-4 py-3">Buscar</a></p>
+                    <h2 class="mb-4">El Duelo</h2>
+                    <p>Vivir la pérdida de un ser querido, es una de las experiencias más dolorosas que pueda atravesar el ser humano.</p>
+                    <p>Cada persona la vive de una manera diferente, según el momento en que este, y las circunstancias de dicha pérdida. Ninguna pérdida es comparable a otra.</p>
+                    <p>Las pérdidas son parte natural de la vida, eso no indica que afloren sentimientos de dolor, tristeza, rabia, culpabilidad, decepción, entre otros. De ahí la importancia de elaborar un duelo, para que ayude a procesar el impacto de la pérdida y la adaptación a la nueva situación.</p>
                 </div>
             </div>
             <div class="col-md-7 wrap-about py-5 pr-md-4 ftco-animate">
