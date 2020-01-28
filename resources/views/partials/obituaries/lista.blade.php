@@ -16,7 +16,7 @@
                         </div>
                     </a>
                     <div class="text bg-white p-4">
-                        <h3 class="heading"><a href="{{route('homenajes.show',['id' => 1])}}">Skills To Develop Your Child Memory</a></h3>
+                        <h3 class="heading"><a href="{{route('homenajes.show',['id' => 1])}}"><p>Camilo Blanes Cortés</p><p>(Camilo Sesto)</p></a></h3>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     </div>
                 </div>
@@ -36,7 +36,7 @@
                         </div>
                     </a>
                     <div class="text bg-white p-4">
-                        <h3 class="heading"><a href="#">Skills To Develop Your Child Memory</a></h3>
+                        <h3 class="heading"><a href="#">Godzilla</a></h3>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     </div>
                 </div>
@@ -56,7 +56,7 @@
                         </div>
                     </a>
                     <div class="text bg-white p-4">
-                        <h3 class="heading"><a href="#">Skills To Develop Your Child Memory</a></h3>
+                        <h3 class="heading"><a href="#">Nanny</a></h3>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     </div>
                 </div>
@@ -76,7 +76,7 @@
                         </div>
                     </a>
                     <div class="text bg-white p-4">
-                        <h3 class="heading"><a href="#">Skills To Develop Your Child Memory</a></h3>
+                        <h3 class="heading"><a href="#">Infanta Pilar de Borbón</a></h3>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     </div>
                 </div>
@@ -96,7 +96,7 @@
                         </div>
                     </a>
                     <div class="text bg-white p-4">
-                        <h3 class="heading"><a href="#">Skills To Develop Your Child Memory</a></h3>
+                        <h3 class="heading"><a href="#">Eduard Punset Casals</a></h3>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     </div>
                 </div>
@@ -116,7 +116,7 @@
                         </div>
                     </a>
                     <div class="text bg-white p-4">
-                        <h3 class="heading"><a href="#">Skills To Develop Your Child Memory</a></h3>
+                        <h3 class="heading"><a href="#">Rocky</a></h3>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     </div>
                 </div>
