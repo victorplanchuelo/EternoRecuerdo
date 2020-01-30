@@ -10,6 +10,20 @@
                 <div class="carousel-testimony owl-carousel">
                     <div class="item">
                         <div class="testimony-wrap d-flex">
+                            <div class="user-img mr-4" style="background-image: url('images/homenajes/kobe-2.jpg')">
+                            </div>
+                            <div class="text ml-2 bg-light">
+                                <span class="quote d-flex align-items-center justify-content-center">
+                                    <i class="icon-quote-left"></i>
+                                </span>
+                                <p>Kobe Bryant, leyenda del baloncesto mundial ha fallecido el 26 de Enero tras un accidente de helicoptero en la ciudad de Calabasas, California.</p>
+                                <p class="name">Kobe Bryant</p>
+                                <span class="position">Philadelphia, 23/08/1978 - California, 26/01/2020</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="testimony-wrap d-flex">
                             <div class="user-img mr-4" style="background-image: url('images/homenajes/camilo-sesto-1.jpg')">
                             </div>
                             <div class="text ml-2 bg-light">

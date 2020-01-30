@@ -17,7 +17,7 @@
                     </a>
                     <div class="text bg-white p-4">
                         <h3 class="heading"><a href="{{route('homenajes.show',['id' => 1])}}"><p>Camilo Blanes Cortés</p><p>(Camilo Sesto)</p></a></h3>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                        <p>Cantante.</p>
                     </div>
                 </div>
             </div>
@@ -37,27 +37,27 @@
                     </a>
                     <div class="text bg-white p-4">
                         <h3 class="heading"><a href="#">Godzilla</a></h3>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                        <p>Un pequeño paso para la tortuga ....</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 ftco-animate">
                 <div class="blog-entry">
-                    <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/homenajes/nanny-mascota.jpg');">
+                    <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/homenajes/kobe-2.jpg');">
                         <div class="meta-date text-center p-2">
-                            <span class="day">24</span>
-                            <span class="mos">Julio</span>
-                            <span class="yr">2009</span>
+                            <span class="day">23</span>
+                            <span class="mos">Agosto</span>
+                            <span class="yr">1978</span>
                         </div>
                         <div class="meta-date text-center p-2">
-                            <span class="day">16</span>
-                            <span class="mos">Septiembre</span>
-                            <span class="yr">2019</span>
+                            <span class="day">26</span>
+                            <span class="mos">Enero</span>
+                            <span class="yr">2020</span>
                         </div>
                     </a>
                     <div class="text bg-white p-4">
-                        <h3 class="heading"><a href="#">Nanny</a></h3>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                        <h3 class="heading"><a href="#">Kobe Bryant</a></h3>
+                        <p>Ex-jugador de Baloncesto</p>
                     </div>
                 </div>
             </div>
@@ -77,7 +77,7 @@
                     </a>
                     <div class="text bg-white p-4">
                         <h3 class="heading"><a href="#">Infanta Pilar de Borbón</a></h3>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                        <p>Infanta de España.</p>
                     </div>
                 </div>
             </div>
@@ -97,7 +97,7 @@
                     </a>
                     <div class="text bg-white p-4">
                         <h3 class="heading"><a href="#">Eduard Punset Casals</a></h3>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                        <p>Jurista,escritor, economista, político y divulgador científico.</p>
                     </div>
                 </div>
             </div>
@@ -117,7 +117,7 @@
                     </a>
                     <div class="text bg-white p-4">
                         <h3 class="heading"><a href="#">Rocky</a></h3>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                        <p>Viviendo la vida peligrósamente.</p>
                     </div>
                 </div>
             </div>
