@@ -20,7 +20,7 @@
                         <li><a href="{{url('/')}}"><span class="ion-ios-arrow-round-forward mr-2"></span>Inicio</a></li>
                         <li><a href="{{url('about')}}"><span class="ion-ios-arrow-round-forward mr-2"></span>Sobre nosotros</a></li>
                         <li><a href="{{url('homenajes')}}"><span class="ion-ios-arrow-round-forward mr-2"></span>Homenajes</a></li>
-                        <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Colaboradores</a></li>
+                        <li><a href="{{url('servicios')}}"><span class="ion-ios-arrow-round-forward mr-2"></span>Colaboradores</a></li>
                         <li><a href="{{url('contacto')}}"><span class="ion-ios-arrow-round-forward mr-2"></span>Contacto</a></li>
                     </ul>
                 </div>
