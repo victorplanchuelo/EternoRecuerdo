@@ -68,7 +68,7 @@
 
     <div class="carousel-item img-homenaje">
     <video class="d-block mx-auto video-fluid w-100" autoplay loop muted>
-        <source src="https://mdbootstrap.com/img/video/forest.mp4" type="video/mp4" />
+        <source src="/videos/camilo-sesto.mp4" type="video/mp4" />
     </video>
     </div>
   </div>
