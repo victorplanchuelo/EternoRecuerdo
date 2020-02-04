@@ -9,7 +9,7 @@
             <div class="col-md-6 col-lg-3 ftco-animate">
                 <div class="staff">
                     <div class="img-wrap d-flex align-items-stretch">
-                        <div class="img align-self-stretch" style="background-image: url('images/teacher-1.jpg');"></div>
+                        <div class="img align-self-stretch" style="background-image: url('images/trabajadoras/silvia.jpg');"></div>
                     </div>
                     <div class="text pt-3 text-center">
                         <h3>Silvia Ruiz</h3>
@@ -32,7 +32,7 @@
                         <div class="img align-self-stretch" style="background-image: url('images/teacher-2.jpg');"></div>
                     </div>
                     <div class="text pt-3 text-center">
-                        <h3>Verónica (Apellido)</h3>
+                        <h3>Verónica Sempere</h3>
                         <span class="position mb-2">Comercial y Marketing</span>
                         <div class="faded">
                             <p>Me considero una persona responsable, entusiasta y siempre intento dar lo mejor de mi.</p>
@@ -49,7 +49,7 @@
             <div class="col-md-6 col-lg-3 ftco-animate">
                 <div class="staff">
                     <div class="img-wrap d-flex align-items-stretch">
-                        <div class="img align-self-stretch" style="background-image: url('images/teacher-3.jpg');"></div>
+                        <div class="img align-self-stretch" style="background-image: url('images/trabajadoras/loreto.jpg');"></div>
                     </div>
                     <div class="text pt-3 text-center">
                         <h3>Loreto Canales</h3>
@@ -69,7 +69,7 @@
             <div class="col-md-6 col-lg-3 ftco-animate">
                 <div class="staff">
                     <div class="img-wrap d-flex align-items-stretch">
-                        <div class="img align-self-stretch" style="background-image: url('images/teacher-4.jpg');"></div>
+                        <div class="img align-self-stretch" style="background-image: url('images/trabajadoras/ma_pilar.jpg');"></div>
                     </div>
                     <div class="text pt-3 text-center">
                         <h3>Mª del Pilar (Apellido)</h3>
