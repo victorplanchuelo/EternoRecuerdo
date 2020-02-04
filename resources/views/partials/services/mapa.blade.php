@@ -1,8 +1,8 @@
 <div class="col-md-12 col-lg-4">
-    <section class="ftco-section bg-light">
-        <div class="container">
-            <div class="row">
-                <h1>mapa</h1>
+    <section class="ftco-section bg-light" style="height:100%">
+        <div class="container" style="height:100%">
+            <div class="row" style="height:100%">
+                <div id="mapa-servicios"></div>
             </div>
         </div>
     </section>

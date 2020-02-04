@@ -11188,3 +11188,9 @@ border:1px solid #ECECEC;
   transition: all 250ms ease-out 0s;
   width: 20px;
 }
+
+
+#mapa-servicios {
+  width: 100%;
+  height: 100%;
+}
