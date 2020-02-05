@@ -1,18 +1,27 @@
 <section class="ftco-section">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 ftco-animate">
-                <h2 class="mb-3">Camilo Blanes Cortés (Camilo Sesto)</h2>
-                <p>Alcoy, 16/09/1946 - Madrid 08/09/2019</p>
-              
+            <div class="col-lg-6 col-xs-12">
                 @include('partials/obituaries/single/carousel')
-
-                @include('partials/obituaries/single/velas-ramos')
-                
-                <p>Camilo Blanes Cortés, más conocido como Camilo Sesto nos dejo la madrugada del domingo 8 de septiembre a los 72 años.</p>
-                <p>Nació en Alcoy, se convirtió en una de las voces más importantes del panorama musical español.</p>
-                <p>Lo conocemos gracias a sus temas más sonoros como “ Vivir así es morir de amor”, “Perdóname” o “ Algo de mi”, “¿Quieres ser mi amante” o “El amor de mi vida”, que le hicieron vender más de 100 millones de discos..</p>
-
+            </div>
+            <div class="col-lg-6 ftco-animate">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h2 class="mb-3">Camilo Blanes Cortés (Camilo Sesto)</h2>
+                        <p>Alcoy, 16/09/1946 - Madrid 08/09/2019</p>
+                        <br>
+                        <p>Camilo Blanes Cortés, más conocido como Camilo Sesto nos dejo la madrugada del domingo 8 de septiembre a los 72 años.</p>
+                        <p>Nació en Alcoy, se convirtió en una de las voces más importantes del panorama musical español.</p>
+                        <p>Lo conocemos gracias a sus temas más sonoros como “ Vivir así es morir de amor”, “Perdóname” o “ Algo de mi”, “¿Quieres ser mi amante” o “El amor de mi vida”, que le hicieron vender más de 100 millones de discos..</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            @include('partials/obituaries/single/velas-ramos')
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
                 <div class="pt-5 mt-5">
                     <h3 class="mb-5 h4 font-weight-bold">2 condolencias</h3>
                     <ul class="comment-list">

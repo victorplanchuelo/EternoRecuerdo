@@ -1,28 +1,3 @@
-<style>
-  #myCarousel .carousel-control-prev, .carousel-control-next {
-    background-color: #edeff0;
-}
-
-  #myCarousel .carousel-control-prev-icon, .carousel-control-next-icon {
-    height: 40px;
-    width: 40px;
-    outline: black;
-    background-color: rgba(0, 0, 0, 0.3);
-    background-size: 100%, 100%;
-    border-radius: 50%;
-    border: 1px solid black;
-}
-
-.img-homenaje {
-  margin-left:176px;
-  width: 800px;
-  max-width: 800px;
-  height: 650px;
-  max-height: 650px;
-  padding-top: 20px;
-}
-
-</style>
 <div class="container">
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Wrapper for slides -->
@@ -40,7 +15,7 @@
     </div>
 
     <div class="carousel-item img-homenaje">
-    <video class="d-block mx-auto video-fluid w-100" autoplay>
+    <video class="d-block mx-auto video-fluid w-100" autoplay controls>
         <source src="/videos/camilo-sesto.mp4" type="video/mp4" />
     </video>
     </div>
