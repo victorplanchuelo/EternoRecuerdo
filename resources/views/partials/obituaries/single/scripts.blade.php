@@ -1,6 +1,8 @@
 <script>
     $(document).ready(function() {
         $('#myCarousel').carousel({interval: false, pause: false});
+        $(this).find(".video-camilo-sesto")[0].pause();
+        
         $("#myCarousel").on('slid.bs.carousel', function(){
             if($(this).find(".video-camilo-sesto").parent().hasClass("active"))
             {
