@@ -4,7 +4,8 @@
 
         var map = new google.maps.Map(document.getElementById('mapa-servicios'), {
           zoom: 5,
-          center: {lat: 40.416775, lng: -3.703790}
+          center: {lat: 41.702140, lng: -2.390367}
+          
         });
 
         // Create an array of alphabetical characters used to label the markers.
@@ -25,9 +26,10 @@
         var markerCluster = new MarkerClusterer(map, markers,
             {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
       }
+
       var locations = [
-        {lat: -31.563910, lng: 147.154312},
-        {lat: -33.718234, lng: 150.363181},
+        {lat: 38.190964, lng: -0.552841},
+        {lat: 38.195854, lng: -0.562425},
         {lat: -33.727111, lng: 150.371124},
         {lat: -33.848588, lng: 151.209834},
         {lat: -33.851702, lng: 151.216968},
