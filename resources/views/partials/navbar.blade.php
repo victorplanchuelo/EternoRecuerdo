@@ -14,7 +14,8 @@
                 <li class="nav-item {{ (request()->is('/')) ? 'active' : '' }}" tag="li"><a href="{{url('/')}}" class="nav-link pl-0">Home</a></li>
                 <li class="nav-item {{ (request()->is('about')) ? 'active' : '' }}" tag="li"><a href="{{url('about')}}" class="nav-link">Sobre nosotros</a></li>
                 <li class="nav-item {{ (request()->is('homenajes')) ? 'active' : '' }}"><a href="{{url('homenajes')}}" class="nav-link">Homenajes</a></li>
-                <li class="nav-item {{ (request()->is('servicios')) ? 'active' : '' }}"><a href="{{url('servicios')}}" class="nav-link">Colaboradores</a></li>
+                <li class="nav-item {{ (request()->is('servicios')) ? 'active' : '' }}"><a href="{{url('servicios')}}" class="nav-link">Servicios</a></li>
+                <li class="nav-item {{ (request()->is('colaboradores')) ? 'active' : '' }}"><a href="{{url('colaboradores')}}" class="nav-link">Colaboradores</a></li>
                 <li class="nav-item {{ (request()->is('contacto')) ? 'active' : '' }}"><a href="{{url('contacto')}}" class="nav-link">Contacto</a></li>
             </ul>
         </div>

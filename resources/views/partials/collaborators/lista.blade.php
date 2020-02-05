@@ -59,10 +59,10 @@
                             </div>
                         </div>
                     </div>
-                    @include('partials/services/paginador')
+                    @include('partials/collaborators/paginador')
                 </div>
             </section>
         </div>
-        @include('partials/services/mapa')
+        @include('partials/collaborators/mapa')
     </div>
 </div>
