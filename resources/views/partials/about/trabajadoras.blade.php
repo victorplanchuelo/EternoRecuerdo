@@ -29,7 +29,7 @@
             <div class="col-md-6 col-lg-3 ftco-animate">
                 <div class="staff">
                     <div class="img-wrap d-flex align-items-stretch">
-                        <div class="img align-self-stretch" style="background-image: url('images/teacher-2.jpg');"></div>
+                        <div class="img align-self-stretch" style="background-image: url('images/trabajadoras/veronica.jpg');"></div>
                     </div>
                     <div class="text pt-3 text-center">
                         <h3>Verónica Sempere</h3>
