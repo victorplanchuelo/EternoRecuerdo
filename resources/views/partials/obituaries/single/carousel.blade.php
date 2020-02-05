@@ -15,7 +15,7 @@
     </div>
 
     <div class="carousel-item img-homenaje">
-    <video class="d-block mx-auto video-fluid w-100" autoplay controls>
+    <video class="d-block mx-auto video-fluid w-100 video-camilo-sesto" autoplay controls>
         <source src="/videos/camilo-sesto.mp4" type="video/mp4" />
     </video>
     </div>

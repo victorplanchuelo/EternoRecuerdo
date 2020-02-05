@@ -65,10 +65,10 @@
 	    }
 		});
 		$('.carousel-testimony').owlCarousel({
-			autoplay: false,
+			autoplay: true,
 			center: true,
 			loop: true,
-			//autoplayTimeout: 7000,
+			autoplayTimeout: 7000,
 			items:1,
 			margin: 30,
 			stagePadding: 0,
