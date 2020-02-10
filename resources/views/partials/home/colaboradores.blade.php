@@ -12,95 +12,114 @@
             <div class="col-md-7 wrap-about py-5 pr-md-4 ftco-animate">
                 <h2 class="mb-4 ml-5">Empresas colaboradoras</h2>
                 <div class="row mt-5">
+                    
                     <div class="col-lg-6 col-sm-6">
-                        <div class="services-2 d-flex">
-                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('images/empresas/floristeria2.png')}}">
+                        <a href="{{url('/colaboradores/floristerias')}}">
+                            <div class="services-2 d-flex">
+                                <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                    <img src="{{asset('images/empresas/floristeria2.png')}}">
+                                </div>
+                                <div class="text">
+                                    <h3>Floristerías</h3>
+                                </div>
                             </div>
-                            <div class="text">
-                                <h3>Floristerías</h3>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-lg-6 col-sm-6">
-                        <div class="services-2 d-flex">
-                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('images/empresas/funerarias.png')}}">
+                        <a href="{{url('/colaboradores/seguros')}}">
+                            <div class="services-2 d-flex">
+                                <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                    <img src="{{asset('images/empresas/funerarias.png')}}">
+                                </div>
+                                <div class="text">
+                                    <h3>Seguros</h3>
+                                </div>
                             </div>
-                            <div class="text">
-                                <h3>Seguros</h3>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-lg-6 col-sm-6">
-                        <div class="services-2 d-flex">
-                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('images/empresas/tanatorio.png')}}">
+                        <a href="{{url('/colaboradores/tanatorios')}}">
+                            <div class="services-2 d-flex">
+                                <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                    <img src="{{asset('images/empresas/tanatorio.png')}}">
+                                </div>
+                                <div class="text">
+                                    <h3>Tanatorios</h3>
+                                </div>
                             </div>
-                            <div class="text">
-                                <h3>Tanatorios</h3>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-lg-6 col-sm-6">
-                        <div class="services-2 d-flex">
-                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('images/empresas/notarios.png')}}">
+                        <a href="{{url('/colaboradores/notarios')}}">
+                            <div class="services-2 d-flex">
+                                <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                    <img src="{{asset('images/empresas/notarios.png')}}">
+                                </div>
+                                <div class="text">
+                                    <h3>Notarios</h3>
+                                </div>
                             </div>
-                            <div class="text">
-                                <h3>Notarios</h3>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-lg-6 col-sm-6">
-                        <div class="services-2 d-flex">
-                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('images/empresas/aseguradoras2.png')}}">
+                        <a href="{{url('/colaboradores/asesorias')}}">
+                            <div class="services-2 d-flex">
+                                <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                    <img src="{{asset('images/empresas/aseguradoras2.png')}}">
+                                </div>
+                                <div class="text">
+                                    <h3>Asesorías</h3>
+                                </div>
                             </div>
-                            <div class="text">
-                                <h3>Asesorías</h3>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-lg-6 col-sm-6">
-                        <div class="services-2 d-flex">
-                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('images/empresas/cementerios.png')}}">
+                        <a href="{{url('/colaboradores/cementerios')}}">
+                            <div class="services-2 d-flex">
+                                <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                    <img src="{{asset('images/empresas/cementerios.png')}}">
+                                </div>
+                                <div class="text">
+                                    <h3>Cementerios</h3>
+                                </div>
                             </div>
-                            <div class="text">
-                                <h3>Cementerios</h3>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-lg-6 col-sm-6">
-                        <div class="services-2 d-flex">
-                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('images/empresas/iglesia.png')}}">
+                        <a href="{{url('/colaboradores/iglesias')}}">
+                            <div class="services-2 d-flex">
+                                <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                    <img src="{{asset('images/empresas/iglesia.png')}}">
+                                </div>
+                                <div class="text">
+                                    <h3>Iglesias</h3>
+                                </div>
                             </div>
-                            <div class="text">
-                                <h3>Iglesias</h3>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-lg-6 col-sm-6">
-                        <div class="services-2 d-flex">
-                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('images/empresas/hospital.png')}}">
+                        <a href="{{url('/colaboradores/hospitales')}}">
+                            <div class="services-2 d-flex">
+                                <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                    <img src="{{asset('images/empresas/hospital.png')}}">
+                                </div>
+                                <div class="text">
+                                    <h3>Hospitales</h3>
+                                </div>
                             </div>
-                            <div class="text">
-                                <h3>Hospitales</h3>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="col-lg-12 col-sm-12">
-                        <div class="services-2 d-flex mx-auto">
-                            <div class="icon mr-3 d-flex justify-content-center align-items-center">
-                                <img src="{{asset('images/empresas/divan.png')}}">
+                        <a href="{{url('/colaboradores/psicologos')}}">
+                            <div class="services-2 d-flex mx-auto">
+                                <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                                    <img src="{{asset('images/empresas/divan.png')}}">
+                                </div>
+                                <div class="text">
+                                    <h3>Gabinete psicológico</h3>
+                                </div>
                             </div>
-                            <div class="text">
-                                <h3>Gabinete psicológico</h3>
-                            </div>
-                        </div>
+                         </a>
                     </div>
                 </div>
             </div>

@@ -10,4 +10,9 @@ class ColaboradoresController extends Controller
     {
         return view('collaborators');
     }
+
+    public function show($name)
+    {
+        return view('collaborators_' . $name);
+    }
 }
