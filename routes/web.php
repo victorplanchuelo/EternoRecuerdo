@@ -21,4 +21,6 @@ Route::get('/homenajes/{id}', 'HomenajesController@show')->name('homenajes.show'
 Route::get('/colaboradores', 'ColaboradoresController@index')->name('colaboradores');
 Route::get('/colaboradores/{name}', 'ColaboradoresController@show');
 
+Route::get('/servicios', 'ServiciosController@index')->name('servicios');
+
 Auth::routes();

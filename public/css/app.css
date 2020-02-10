@@ -11133,7 +11133,7 @@ a.text-dark:focus {
 border:1px solid #ECECEC;
   box-shadow: 0 19px 38px rgba(0,0,0,0.10), 0 15px 12px rgba(0,0,0,0.02);
 }
-#velas .shadow-effect p {
+#velas .shadow-effect p, #ramos .shadow-effect p, #velas-ramos .shadow-effect p {
   font-family: inherit;
   font-size: 17px;
   line-height: 1.5;
@@ -11151,7 +11151,7 @@ border:1px solid #ECECEC;
   color: #fff;
   box-shadow: 0 9px 18px rgba(0,0,0,0.12), 0 5px 7px rgba(0,0,0,0.05);
 }
-#velas .item {
+#velas .item, #ramos .item, #velas-ramos .item {
   text-align: center;
   padding: 50px;
   margin-bottom:80px;
@@ -11160,7 +11160,8 @@ border:1px solid #ECECEC;
   transform: scale3d(0.8, 0.8, 1);
   transition: all 0.3s ease-in-out;
 }
-#velas .owl-item.active.center .item {
+#velas .owl-item.active.center .item, #ramos .owl-item.active.center .item,
+#velas-ramos .owl-item.active.center .item {
   opacity: 1;
   -webkit-transform: scale3d(1.0, 1.0, 1);
   transform: scale3d(1.0, 1.0, 1);
@@ -11171,12 +11172,17 @@ border:1px solid #ECECEC;
   max-width: 90px;
   margin: 0 auto 17px;
 }
-#velas.owl-carousel.owl-theme .owl-dots .owl-dot.active span, #velas.owl-carousel.owl-theme .owl-dots .owl-dot:hover span {
+
+#velas.owl-carousel.owl-theme .owl-dots .owl-dot.active span, #velas.owl-carousel.owl-theme .owl-dots .owl-dot:hover span,
+#ramos.owl-carousel.owl-theme .owl-dots .owl-dot.active span, #ramos.owl-carousel.owl-theme .owl-dots .owl-dot:hover span,
+#velas-ramos.owl-carousel.owl-theme .owl-dots .owl-dot.active span, #velas-ramos.owl-carousel.owl-theme .owl-dots .owl-dot:hover span {
   background: #28CB75;
   -webkit-transform: translate3d(0px, -50%, 0px) scale(0.7);
           transform: translate3d(0px, -50%, 0px) scale(0.7);
 }
-#velas.owl-carousel.owl-theme .owl-dots .owl-dot span {
+#velas.owl-carousel.owl-theme .owl-dots .owl-dot span,
+#ramos.owl-carousel.owl-theme .owl-dots .owl-dot span,
+#velas-ramos.owl-carousel.owl-theme .owl-dots .owl-dot span {
   background: #C4C4CC;
   display: block;
   height: 20px;
