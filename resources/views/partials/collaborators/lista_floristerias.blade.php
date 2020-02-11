@@ -45,7 +45,7 @@
                                 <a href="#" class="block-20 d-flex align-items-end" style="background-image: url('/images/colaboradores/floristerias/floristeria-torrevieja.jpg');"></a>
                                 <div class="text bg-white p-4">
                                     <h3 class="heading"><a href="#">Floristería Carmina</a></h3>
-                                    <p>Terrevieja (Alicante)</p>
+                                    <p>Torrevieja (Alicante)</p>
                                 </div>
                             </div>
                         </div>
