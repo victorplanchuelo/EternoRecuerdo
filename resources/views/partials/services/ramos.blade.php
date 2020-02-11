@@ -1,28 +1,20 @@
-<section class="ramos-section">
-	<div class="container">
-
-      <div class="row">
-        <div class="col-sm-12">
-          <div id="ramos" class="owl-carousel">
-
-            <!--TESTIMONIAL 1 -->
-            <div class="item">
-              <div class="shadow-effect">
-                <img class="rounded-circle" src="/images/homenajes/ramos/ramo-basico.jpg" alt="">
-              </div>
-              <div class="testimonial-name">CRISTIAN SANTOS</div>
-            </div>
-            <!--END OF TESTIMONIAL 1 -->
-            <!--TESTIMONIAL 3 -->
-            <div class="item">
-              <div class="shadow-effect">
-                <img class="rounded-circle" src="/images/homenajes/ramos/ramo-completo.jpg" alt="">
-              </div>
-              <div class="testimonial-name">LAURA RIVERA</div>
-            </div>
-            <!--END OF TESTIMONIAL 3 -->
+<section class="ftco-gallery ramos-section" style="width:100%;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 ftco-animate">
+        <a href="/images/homenajes/ramos/ramo-basico.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(/images/homenajes/ramos/ramo-basico.jpg);">
+          <div class="icon mb-4 d-flex align-items-center justify-content-center">
+            <span class="icon-instagram"></span>
           </div>
-        </div>
+        </a>
       </div>
+      <div class="col-md-3 ftco-animate">
+        <a href="/images/homenajes/ramos/ramo-completo.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(/images/homenajes/ramos/ramo-completo.jpg);">
+          <div class="icon mb-4 d-flex align-items-center justify-content-center">
+            <span class="icon-instagram"></span>
+          </div>
+        </a>
       </div>
-    </section>
+    </div>
+  </div>
+</section>
