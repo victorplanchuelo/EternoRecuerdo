@@ -9,7 +9,7 @@
                                 <a href="#" class="block-20 d-flex align-items-end" style="background-image: url('/images/colaboradores/cementerios/cementerio-alicante.jpg');"></a>
                                 <div class="text bg-white p-4">
                                     <h3 class="heading"><a href="#"><p>Cementerio de Alicante</p></a></h3>
-                                    <p>Alicaqnte</p>
+                                    <p>Alicante</p>
                                 </div>
                             </div>
                         </div>
