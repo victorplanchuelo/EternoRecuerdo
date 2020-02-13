@@ -3,7 +3,7 @@
     <div class="row">
       <div class="card col-md-3" style="width: 18rem;">
         <div class="ftco-animate">
-          <a href="/images/homenajes/velas/modelo1/4.png" class="gallery image-popup img d-flex align-items-center" style="background-image: url(/images/homenajes/velas/modelo1/4.png);">
+          <a href="/images/homenajes/velas/modelo1/1.png" class="gallery image-popup img d-flex align-items-center" style="background-size:contain; background-image: url(/images/homenajes/velas/modelo1/1.png);">
             <div class="icon mb-4 d-flex align-items-center justify-content-center">
               <span class="icon-instagram"></span>
             </div>
@@ -29,7 +29,111 @@
       </div>
       <div class="card col-md-3" style="width: 18rem;">
         <div class="ftco-animate">
-          <a href="/images/homenajes/velas/modelo1/2.png" class="gallery image-popup img d-flex align-items-center" style="background-image: url(/images/homenajes/velas/modelo1/2.png);">
+          <a href="/images/homenajes/velas/modelo1/2.png" class="gallery image-popup img d-flex align-items-center" style="background-size:contain; background-image: url(/images/homenajes/velas/modelo1/2.png);">
+            <div class="icon mb-4 d-flex align-items-center justify-content-center">
+              <span class="icon-instagram"></span>
+            </div>
+          </a>
+        </div>
+        <div class="card-body">
+          <div class="container">
+            <div class="row">
+              <div class="precio-tachado">
+                <del>
+                  <span class="amount-del">€35,00</span>
+                </del>
+                <ins>
+                  <span class="amount">€32,50</span>
+                </ins>
+              </div>
+            </div>
+            <div class="row">
+              <p class="card-text">Vela rectangular verde con logotipo.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card col-md-3" style="width: 18rem;">
+        <div class="ftco-animate">
+          <a href="/images/homenajes/velas/modelo1/3.png" class="gallery image-popup img d-flex align-items-center" style="background-size:contain; background-image: url(/images/homenajes/velas/modelo1/3.png);">
+            <div class="icon mb-4 d-flex align-items-center justify-content-center">
+              <span class="icon-instagram"></span>
+            </div>
+          </a>
+        </div>
+        <div class="card-body">
+          <div class="container">
+            <div class="row">
+              <div class="precio-tachado">
+                <del>
+                  <span class="amount-del">€35,00</span>
+                </del>
+                <ins>
+                  <span class="amount">€32,50</span>
+                </ins>
+              </div>
+            </div>
+            <div class="row">
+              <p class="card-text">Vela rectangular verde con logotipo.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card col-md-3" style="width: 18rem;">
+        <div class="ftco-animate">
+          <a href="/images/homenajes/velas/modelo1/4.png" class="gallery image-popup img d-flex align-items-center" style="background-size:contain; background-image: url(/images/homenajes/velas/modelo1/4.png);">
+            <div class="icon mb-4 d-flex align-items-center justify-content-center">
+              <span class="icon-instagram"></span>
+            </div>
+          </a>
+        </div>
+        <div class="card-body">
+          <div class="container">
+            <div class="row">
+              <div class="precio-tachado">
+                <del>
+                  <span class="amount-del">€35,00</span>
+                </del>
+                <ins>
+                  <span class="amount">€32,50</span>
+                </ins>
+              </div>
+            </div>
+            <div class="row">
+              <p class="card-text">Vela rectangular verde con logotipo.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card col-md-3" style="width: 18rem;">
+        <div class="ftco-animate">
+          <a href="/images/homenajes/velas/modelo1/5.png" class="gallery image-popup img d-flex align-items-center" style="background-size:contain; background-image: url(/images/homenajes/velas/modelo1/5.png);">
+            <div class="icon mb-4 d-flex align-items-center justify-content-center">
+              <span class="icon-instagram"></span>
+            </div>
+          </a>
+        </div>
+        <div class="card-body">
+          <div class="container">
+            <div class="row">
+              <div class="precio-tachado">
+                <del>
+                  <span class="amount-del">€35,00</span>
+                </del>
+                <ins>
+                  <span class="amount">€32,50</span>
+                </ins>
+              </div>
+            </div>
+            <div class="row">
+              <p class="card-text">Vela rectangular verde con logotipo.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card col-md-3" style="width: 18rem;">
+        <div class="ftco-animate">
+          <a href="/images/homenajes/velas/modelo2/1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-size:contain; background-image: url(/images/homenajes/velas/modelo2/1.jpg);">
             <div class="icon mb-4 d-flex align-items-center justify-content-center">
               <span class="icon-instagram"></span>
             </div>
@@ -41,7 +145,7 @@
       </div>
       <div class="card col-md-3" style="width: 18rem;">
         <div class="ftco-animate">
-          <a href="/images/homenajes/velas/modelo2/3.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(/images/homenajes/velas/modelo2/3.jpg);">
+          <a href="/images/homenajes/velas/modelo2/2.jpg" class="gallery image-popup img d-flex align-items-center" style="background-size:contain; background-image: url(/images/homenajes/velas/modelo2/2.jpg);">
             <div class="icon mb-4 d-flex align-items-center justify-content-center">
               <span class="icon-instagram"></span>
             </div>
@@ -53,7 +157,19 @@
       </div>
       <div class="card col-md-3" style="width: 18rem;">
         <div class="ftco-animate">
-          <a href="/images/homenajes/velas/modelo2/1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(/images/homenajes/velas/modelo2/1.jpg);">
+          <a href="/images/homenajes/velas/modelo2/3.jpg" class="gallery image-popup img d-flex align-items-center" style="background-size:contain; background-image: url(/images/homenajes/velas/modelo2/3.jpg);">
+            <div class="icon mb-4 d-flex align-items-center justify-content-center">
+              <span class="icon-instagram"></span>
+            </div>
+          </a>
+        </div>
+        <div class="card-body">
+          <p class="card-text">Vela esférica verde con logotipo.</p>
+        </div>
+      </div>
+      <div class="card col-md-3" style="width: 18rem;">
+        <div class="ftco-animate">
+          <a href="/images/homenajes/velas/modelo2/4.jpg" class="gallery image-popup img d-flex align-items-center" style="background-size:contain; background-image: url(/images/homenajes/velas/modelo2/4.jpg);">
             <div class="icon mb-4 d-flex align-items-center justify-content-center">
               <span class="icon-instagram"></span>
             </div>
