@@ -28,17 +28,19 @@
                 </div>
             </div>
             <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-morado-pastel">
-                <div class="media block-6 d-block text-center">
-                    <div class="icon d-flex justify-content-center align-items-center">
-                        <span>
-                            <img class="img-servicios-home" src="{{asset('images/servicios/servicios-manos-2.png')}}" />
-                        </span>
+                <a href="{{url('/servicios')}}">
+                    <div class="media block-6 d-block text-center">
+                        <div class="icon d-flex justify-content-center align-items-center">
+                            <span>
+                                <img class="img-servicios-home" src="{{asset('images/servicios/servicios-manos-2.png')}}" />
+                            </span>
+                        </div>
+                        <div class="media-body p-2 mt-3">
+                            <h3 class="heading">Nuestros servicios</h3>
+                            <p>Aquí podrás encontrar los servicios que ofrecemos</p>
+                        </div>
                     </div>
-                    <div class="media-body p-2 mt-3">
-                        <h3 class="heading">Nuestros servicios</h3>
-                        <p>Aquí podrás encontrar los servicios que ofrecemos</p>
-                    </div>
-                </div>
+                </a>
             </div>
             <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-rojo-pastel">
                 <div class="media block-6 d-block text-center">
