@@ -21,6 +21,32 @@
             @include('partials/obituaries/single/velas-ramos')
         </div>
         <div class="row">
+            <div class="col-lg-4 services-2 d-flex" data-toggle="modal" data-target="#modal-ramos">
+                <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                    <img src="/images/icons/bouquet.png">
+                </div>
+                <div class="text">
+                    <h3>Crear Ramo</h3>
+                </div>
+            </div>
+            <div class="col-lg-4 services-2 d-flex">
+                <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                    <img src="/images/icons/edit.png">
+                </div>
+                <div class="text">
+                    <h3>Añadir condolencia</h3>
+                </div>
+            </div>
+            <div class="col-lg-4 services-2 d-flex" data-toggle="modal" data-target="#modal-velas">
+                <div class="icon mr-3 d-flex justify-content-center align-items-center">
+                    <img src="/images/icons/candle.png">
+                </div>
+                <div class="text">
+                    <h3>Encender vela</h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
             <div class="col-lg-12">
                 <div class="pt-5 mt-5">
                     <h3 class="mb-5 h4 font-weight-bold">2 condolencias</h3>
@@ -54,3 +80,137 @@
         </div>
     </div>
 </section>
+
+<!-- AÑADIMOS LOS MODALES -->
+<div class="modal fade" id="form-condolencias" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header border-bottom-0">
+        <h5 class="modal-title" id="exampleModalLabel">Crear condolencia</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <form>
+        <div class="modal-body">
+          <div class="form-group">
+            <label for="texto-condolencia">Escribe tu condolencia: </label>
+            <textarea class="form-control" id="condolencia" rows="5"></textarea>
+          </div>
+        </div>
+        <div class="modal-footer border-top-0 d-flex justify-content-center">
+          <button type="submit" class="btn btn-success">Enviar</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="modal-ramos" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header border-bottom-0">
+        <h5 class="modal-title" id="exampleModalLabel">Crear ramo</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <form>
+        <div class="modal-body">
+            <!-- Page Content -->
+            <div class="container">
+                <div class="row text-center text-lg-left">
+                    <div class="col-lg-3 col-md-4 col-6 ramo">
+                        <div class="d-block mb-4 h-100">
+                            <img class="img-fluid img-thumbnail" src="/images/homenajes/ramos/ramo-basico.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-6 ramo">
+                        <div class="d-block mb-4 h-100">
+                            <img class="img-fluid img-thumbnail" src="/images/homenajes/ramos/ramo-completo.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /.container -->
+        </div>
+        <div class="modal-footer border-top-0 d-flex justify-content-center">
+          <button type="submit" class="btn btn-success">Crear</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" id="modal-velas" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header border-bottom-0">
+        <h5 class="modal-title" id="exampleModalLabel">Crear ramo</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <form>
+        <div class="modal-body">
+            <!-- Page Content -->
+            <div class="container">
+                <div class="row text-center text-lg-left">
+                    <div class="col-lg-3 col-md-4 col-6 vela">
+                        <div class="d-block mb-4 h-100">
+                            <img class="img-fluid img-thumbnail" src="/images/homenajes/velas/modelo1/1.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-6 vela">
+                        <div class="d-block mb-4 h-100">
+                            <img class="img-fluid img-thumbnail" src="/images/homenajes/velas/modelo1/2.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-6 vela">
+                        <div class="d-block mb-4 h-100">
+                            <img class="img-fluid img-thumbnail" src="/images/homenajes/velas/modelo1/3.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-6 vela">
+                        <div class="d-block mb-4 h-100">
+                            <img class="img-fluid img-thumbnail" src="/images/homenajes/velas/modelo1/4.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-6 vela">
+                        <div class="d-block mb-4 h-100">
+                            <img class="img-fluid img-thumbnail" src="/images/homenajes/velas/modelo1/5.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-6 vela">
+                        <div class="d-block mb-4 h-100">
+                            <img class="img-fluid img-thumbnail" src="/images/homenajes/velas/modelo2/1.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-6 vela">
+                        <div class="d-block mb-4 h-100">
+                            <img class="img-fluid img-thumbnail" src="/images/homenajes/velas/modelo2/2.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-6 vela">
+                        <div class="d-block mb-4 h-100">
+                            <img class="img-fluid img-thumbnail" src="/images/homenajes/velas/modelo2/3.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-6 vela">
+                        <div class="d-block mb-4 h-100">
+                            <img class="img-fluid img-thumbnail" src="/images/homenajes/velas/modelo2/4.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /.container -->
+        </div>
+        <div class="modal-footer border-top-0 d-flex justify-content-center">
+          <button type="submit" class="btn btn-success">Crear</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+<!-------------------------->
