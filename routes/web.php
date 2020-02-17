@@ -23,4 +23,6 @@ Route::get('/colaboradores/{name}', 'ColaboradoresController@show');
 
 Route::get('/servicios', 'ServiciosController@index')->name('servicios');
 
+Route::get('/condolencia/{tipo}', 'CondolenciasController@show')->name('condolencias');
+
 Auth::routes();

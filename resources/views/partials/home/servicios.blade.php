@@ -2,30 +2,34 @@
     <div class="container-wrap">
         <div class="row no-gutters">
             <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-azul-pastel">
-                <div class="media block-6 d-block text-center">
-                    <div class="icon d-flex justify-content-center align-items-center">
-                        <span>
-                            <img class="img-servicios-home" src="{{asset('images/servicios/ser-querido-manos.png')}}" />
-                        </span>
+                <a href="{{url('/condolencia/persona')}}">
+                    <div class="media block-6 d-block text-center">
+                        <div class="icon d-flex justify-content-center align-items-center">
+                            <span>
+                                <img class="img-servicios-home" src="{{asset('images/servicios/ser-querido-manos.png')}}" />
+                            </span>
+                        </div>
+                        <div class="media-body p-2 mt-3">
+                            <h3 class="heading">Ser querido</h3>
+                            <p>Crea desde aquí el perfil de tu ser querido</p>
+                        </div>
                     </div>
-                    <div class="media-body p-2 mt-3">
-                        <h3 class="heading">Ser querido</h3>
-                        <p>Crea desde aquí el perfil de tu ser querido</p>
-                    </div>
-                </div>
+                </a>
             </div>
             <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-verde-pastel">
-                <div class="media block-6 d-block text-center">
-                    <div class="icon d-flex justify-content-center align-items-center">
-                        <span>
-                            <img class="img-servicios-home" src="{{asset('images/servicios/mascota-manos.png')}}" />
-                        </span>
+                <a href="{{url('/condolencia/mascota')}}">    
+                    <div class="media block-6 d-block text-center">
+                        <div class="icon d-flex justify-content-center align-items-center">
+                            <span>
+                                <img class="img-servicios-home" src="{{asset('images/servicios/mascota-manos.png')}}" />
+                            </span>
+                        </div>
+                        <div class="media-body p-2 mt-3">
+                            <h3 class="heading">Mascota</h3>
+                            <p>Crea desde aquí el perfil de tu mascota</p>
+                        </div>
                     </div>
-                    <div class="media-body p-2 mt-3">
-                        <h3 class="heading">Mascota</h3>
-                        <p>Crea desde aquí el perfil de tu mascota</p>
-                    </div>
-                </div>
+                </a>
             </div>
             <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-morado-pastel">
                 <a href="{{url('/servicios')}}">

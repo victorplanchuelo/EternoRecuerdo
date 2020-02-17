@@ -1,5 +1,6 @@
 <script src="{{ asset('js/jquery.min.js') }}"></script>
 <script src="{{ asset('js/app.js') }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/js/all.min.js"></script>
 <script src="{{ asset('js/jquery-ui.min.js') }}"></script>
 <script src="{{ asset('js/jquery.timepicker.min.js') }}"></script>
 <script src="{{ asset('js/jquery-migrate-3.0.1.min.js') }}"></script>
@@ -13,4 +14,5 @@
 <script src="{{ asset('js/aos.js') }}"></script>
 <script src="{{ asset('js/jquery.animateNumber.min.js') }}"></script>
 <script src="{{ asset('js/scrollax.min.js') }}"></script>
+<script src="{{ asset('js/datepicker.js') }}"></script>
 <script src="{{ asset('js/main.js') }}"></script>

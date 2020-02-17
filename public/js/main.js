@@ -249,14 +249,6 @@
     fixedContentPos: false
   });
 
-
-  $('.appointment_date').datepicker({
-	  'format': 'm/d/yyyy',
-	  'autoclose': true
-	});
-
-	$('.appointment_time').timepicker();
-
 	$('#velas-ramos').owlCarousel({
 		loop: true,
 		center: true,
@@ -323,6 +315,24 @@
 		}
 	});
 
-
+	$('#fecha_nacimiento').datepicker({
+		format:'dd/mm/yyyy',
+		language: 'es',
+		icons: {
+			time: "fa fa-clock-o",
+			date: "fa fa-calendar",
+			up: "fa fa-arrow-up",
+			down: "fa fa-arrow-down"
+		}
+	});
+	$('#fecha_muerte').datepicker({
+		format:'dd/mm/yyyy',
+		icons: {
+			time: "fa fa-clock-o",
+			date: "fa fa-calendar",
+			up: "fa fa-arrow-up",
+			down: "fa fa-arrow-down"
+		}
+	});
 })(jQuery);
 
