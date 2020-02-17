@@ -57,9 +57,36 @@
                             </div>
                         </div>
                         <div class="form-group row">
-                            <label class="col-lg-3 col-form-label form-control-label">Háblanos sobre la persona:</label>
+                            <label class="col-lg-3 col-form-label form-control-label">Háblanos sobre su mascota:</label>
                             <div class="col-lg-9">
                                 <textarea rows="5" class="form-control"></textarea>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="control-label">Subida de imágenes</label>
+                                    <div class="preview-zone hidden">
+                                        <div class="box box-solid">
+                                            <div class="box-header with-border">
+                                                <div><b>Vista preliminar</b></div>
+                                                <div class="box-tools pull-right">
+                                                    <button type="button" class="btn btn-danger btn-xs remove-preview">
+                                                        <i class="fa fa-times"></i> Cancelar
+                                                    </button>
+                                                </div>
+                                            </div>
+                                            <div class="box-body"></div>
+                                        </div>
+                                    </div>
+                                    <div class="dropzone-wrapper">
+                                        <div class="dropzone-desc">
+                                            <i class="glyphicon glyphicon-download-alt"></i>
+                                            <p>Elija las imágenes a subir o arrástrelas al recuadro.</p>
+                                        </div>
+                                        <input type="file" name="img_logo" class="dropzone">
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="form-group row">

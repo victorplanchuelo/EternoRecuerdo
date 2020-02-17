@@ -63,6 +63,33 @@
                             </div>
                         </div>
                         <div class="form-group row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <label class="control-label">Subida de Imágenes</label>
+                                    <div class="preview-zone hidden">
+                                        <div class="box box-solid">
+                                            <div class="box-header with-border">
+                                                <div><b>Vista preliminar</b></div>
+                                                <div class="box-tools pull-right">
+                                                    <button type="button" class="btn btn-danger btn-xs remove-preview">
+                                                        <i class="fa fa-times"></i> Cancelar
+                                                    </button>
+                                                </div>
+                                            </div>
+                                            <div class="box-body"></div>
+                                        </div>
+                                    </div>
+                                    <div class="dropzone-wrapper">
+                                        <div class="dropzone-desc">
+                                            <i class="glyphicon glyphicon-download-alt"></i>
+                                            <p>Elija alguna imagen o arrástrela al recuadro</p>
+                                        </div>
+                                        <input type="file" name="img_logo" class="dropzone">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group row">
                             <div class="text-center col align-self-center">
                                 <input type="button" class="btn btn-primary" value="Save Changes">
                             </div>
