@@ -29,7 +29,7 @@
                     <h3>Crear Ramo</h3>
                 </div>
             </div>
-            <div class="col-lg-4 services-2 d-flex">
+            <div class="col-lg-4 services-2 d-flex" data-toggle="modal" data-target="#form-condolencias">
                 <div class="icon mr-3 d-flex justify-content-center align-items-center">
                     <img src="/images/icons/edit.png">
                 </div>
