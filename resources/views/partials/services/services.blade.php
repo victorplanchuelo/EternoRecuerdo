@@ -19,7 +19,7 @@
             <img src="/images/gabinete_psicologico.jpg" class="img img-fluid mx-auto"> 
         </div>
         <div class="row mt-5">
-            <h1  class="texto-servicios mx-auto font-weight-bold">También puede echar un vistazo a nuestro folleto</h1>
+            <h1  class="texto-servicios mx-auto font-weight-bold">Puede echar un vistazo a nuestro folleto para consultar nuestras tarifas</h1>
         </div>
         <div class="row">
             <object data="/images/catalogo.pdf" type="application/pdf" width="100%" height="500px"> 
