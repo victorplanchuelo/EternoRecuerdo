@@ -1,5 +1,8 @@
 <section class="ftco-section">
     <div class="container">
+        <div class="row justify-content-md-center">
+        @include('partials/services/cuota-suscripcion')
+        </div>
         <div class="row">
             <h1 class="texto-servicios mx-auto font-weight-bold">Velas</h1>
         </div>
