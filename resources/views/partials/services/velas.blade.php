@@ -14,15 +14,15 @@
             <div class="row">
               <div class="precio-tachado">
                 <del>
-                  <span class="amount-del">€35,00</span>
+                  <span class="amount-del" style="font-size:20px" data-toggle="tooltip" data-placement="top" title="Precio actual">0,80€</span>
                 </del>
                 <ins>
-                  <span class="amount">€32,50</span>
+                  <span class="amount" data-toggle="tooltip" data-placement="top" title="Precio con el descuento por mencionarnos y compartirnos en RR.SS.">0,40€</span>
                 </ins>
               </div>
             </div>
             <div class="row">
-              <p class="card-text">Vela rectangular verde con logotipo.</p>
+              <p class="card-text">Vela rectangular blanca con logotipo.</p>
             </div>
           </div>
         </div>
@@ -38,17 +38,17 @@
         <div class="card-body">
           <div class="container">
             <div class="row">
-              <div class="precio-tachado">
+            <div class="precio-tachado">
                 <del>
-                  <span class="amount-del">€35,00</span>
+                  <span class="amount-del" style="font-size:20px" data-toggle="tooltip" data-placement="top" title="Precio actual">0,80€</span>
                 </del>
                 <ins>
-                  <span class="amount">€32,50</span>
+                  <span class="amount" data-toggle="tooltip" data-placement="top" title="Precio con el descuento por mencionarnos y compartirnos en RR.SS.">0,40€</span>
                 </ins>
               </div>
             </div>
             <div class="row">
-              <p class="card-text">Vela rectangular verde con logotipo.</p>
+              <p class="card-text">Vela rectangular roja con logotipo.</p>
             </div>
           </div>
         </div>
@@ -64,17 +64,17 @@
         <div class="card-body">
           <div class="container">
             <div class="row">
-              <div class="precio-tachado">
+            <div class="precio-tachado">
                 <del>
-                  <span class="amount-del">€35,00</span>
+                  <span class="amount-del" style="font-size:20px" data-toggle="tooltip" data-placement="top" title="Precio actual">0,80€</span>
                 </del>
                 <ins>
-                  <span class="amount">€32,50</span>
+                  <span class="amount" data-toggle="tooltip" data-placement="top" title="Precio con el descuento por mencionarnos y compartirnos en RR.SS.">0,40€</span>
                 </ins>
               </div>
             </div>
             <div class="row">
-              <p class="card-text">Vela rectangular verde con logotipo.</p>
+              <p class="card-text">Vela rectangular crema con logotipo.</p>
             </div>
           </div>
         </div>
@@ -90,12 +90,12 @@
         <div class="card-body">
           <div class="container">
             <div class="row">
-              <div class="precio-tachado">
+            <div class="precio-tachado">
                 <del>
-                  <span class="amount-del">€35,00</span>
+                  <span class="amount-del" style="font-size:20px" data-toggle="tooltip" data-placement="top" title="Precio actual">0,80€</span>
                 </del>
                 <ins>
-                  <span class="amount">€32,50</span>
+                  <span class="amount" data-toggle="tooltip" data-placement="top" title="Precio con el descuento por mencionarnos y compartirnos en RR.SS.">0,40€</span>
                 </ins>
               </div>
             </div>
@@ -116,17 +116,17 @@
         <div class="card-body">
           <div class="container">
             <div class="row">
-              <div class="precio-tachado">
+            <div class="precio-tachado">
                 <del>
-                  <span class="amount-del">€35,00</span>
+                  <span class="amount-del" style="font-size:20px" data-toggle="tooltip" data-placement="top" title="Precio actual">0,80€</span>
                 </del>
                 <ins>
-                  <span class="amount">€32,50</span>
+                  <span class="amount" data-toggle="tooltip" data-placement="top" title="Precio con el descuento por mencionarnos y compartirnos en RR.SS.">0,40€</span>
                 </ins>
               </div>
             </div>
             <div class="row">
-              <p class="card-text">Vela rectangular verde con logotipo.</p>
+              <p class="card-text">Vela rectangular morado con logotipo.</p>
             </div>
           </div>
         </div>
@@ -140,7 +140,21 @@
           </a>
         </div>
         <div class="card-body">
-          <p class="card-text">Vela rectangular roja con logotipo.</p>
+          <div class="container">
+            <div class="row">
+            <div class="precio-tachado">
+                <del>
+                  <span class="amount-del" style="font-size:20px" data-toggle="tooltip" data-placement="top" title="Precio actual">0,80€</span>
+                </del>
+                <ins>
+                  <span class="amount" data-toggle="tooltip" data-placement="top" title="Precio con el descuento por mencionarnos y compartirnos en RR.SS.">0,40€</span>
+                </ins>
+              </div>
+            </div>
+            <div class="row">
+              <p class="card-text">Vela esférica verde con logotipo.</p>
+            </div>
+          </div>
         </div>
       </div>
       <div class="card col-md-3" style="width: 18rem;">
@@ -152,7 +166,21 @@
           </a>
         </div>
         <div class="card-body">
-          <p class="card-text">Vela esférica azul con logotipo.</p>
+          <div class="container">
+            <div class="row">
+            <div class="precio-tachado">
+                <del>
+                  <span class="amount-del" style="font-size:20px" data-toggle="tooltip" data-placement="top" title="Precio actual">0,80€</span>
+                </del>
+                <ins>
+                  <span class="amount" data-toggle="tooltip" data-placement="top" title="Precio con el descuento por mencionarnos y compartirnos en RR.SS.">0,40€</span>
+                </ins>
+              </div>
+            </div>
+            <div class="row">
+              <p class="card-text">Vela esférica rosa con logotipo.</p>
+            </div>
+          </div>
         </div>
       </div>
       <div class="card col-md-3" style="width: 18rem;">
@@ -164,7 +192,21 @@
           </a>
         </div>
         <div class="card-body">
-          <p class="card-text">Vela esférica verde con logotipo.</p>
+          <div class="container">
+            <div class="row">
+            <div class="precio-tachado">
+                <del>
+                  <span class="amount-del" style="font-size:20px" data-toggle="tooltip" data-placement="top" title="Precio actual">0,80€</span>
+                </del>
+                <ins>
+                  <span class="amount" data-toggle="tooltip" data-placement="top" title="Precio con el descuento por mencionarnos y compartirnos en RR.SS.">0,40€</span>
+                </ins>
+              </div>
+            </div>
+            <div class="row">
+              <p class="card-text">Vela esférica azul con logotipo.</p>
+            </div>
+          </div>
         </div>
       </div>
       <div class="card col-md-3" style="width: 18rem;">
@@ -176,7 +218,21 @@
           </a>
         </div>
         <div class="card-body">
-          <p class="card-text">Vela esférica verde con logotipo.</p>
+          <div class="container">
+            <div class="row">
+            <div class="precio-tachado">
+                <del>
+                  <span class="amount-del" style="font-size:20px" data-toggle="tooltip" data-placement="top" title="Precio actual">0,80€</span>
+                </del>
+                <ins>
+                  <span class="amount" data-toggle="tooltip" data-placement="top" title="Precio con el descuento por mencionarnos y compartirnos en RR.SS.">0,40€</span>
+                </ins>
+              </div>
+            </div>
+            <div class="row">
+              <p class="card-text">Vela esférica crema con logotipo.</p>
+            </div>
+          </div>
         </div>
       </div>
     </div>

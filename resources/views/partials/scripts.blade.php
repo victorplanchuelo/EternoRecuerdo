@@ -16,3 +16,9 @@
 <script src="{{ asset('js/scrollax.min.js') }}"></script>
 <script src="{{ asset('js/datepicker.js') }}"></script>
 <script src="{{ asset('js/main.js') }}"></script>
+
+<script>
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+});
+</script>
