@@ -75,7 +75,7 @@
             <h1  class="texto-servicios mx-auto font-weight-bold">Descuentos en la página</h1>
         </div>
         <div class="row">
-            <div class="col-4 mx-auto text-center">
+            <div class="col-6 mx-auto text-center">
                 <img src="/images/DESCUENTO.jpg" class="img img-fluid"> 
             </div>
         </div>
