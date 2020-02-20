@@ -72,7 +72,7 @@
                         <div class="img align-self-stretch" style="background-image: url('images/trabajadoras/ma_pilar.jpg');"></div>
                     </div>
                     <div class="text pt-3 text-center">
-                        <h3>Mª del Pilar (Apellido)</h3>
+                        <h3>Mª del Pilar Sabogal</h3>
                         <span class="position mb-2">Contabilidad</span>
                         <div class="faded">
                             <p>Me considero una persona que se adapta muy bien a los cambios, y me gusta dar lo mejor de mí en todo momento y ayudar a los demás.</p>
